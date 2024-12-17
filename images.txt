@@ -1,2 +1,2 @@
-mysql:8.0.40-debian
+python:alpine3.19
 
