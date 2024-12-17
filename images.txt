@@ -1,2 +1,2 @@
 #支持私库
-starrocks/allin1-ubuntu:latest
+starrocks/allin1-ubuntu
