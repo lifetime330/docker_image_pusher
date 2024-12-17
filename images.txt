@@ -1,1 +1,2 @@
-starrocks:allin1-ubuntu:3.1.16
+mysql:8.0.40-debian
+
